@@ -1,0 +1,12 @@
+E:\VisualProject\Laba_Graphic\Laba_Graphic\bin\Debug\Laba_Graphic.exe.config
+E:\VisualProject\Laba_Graphic\Laba_Graphic\bin\Debug\Laba_Graphic.exe
+E:\VisualProject\Laba_Graphic\Laba_Graphic\bin\Debug\Laba_Graphic.pdb
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.csprojResolveAssemblyReference.cache
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.Form1.resources
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.Properties.Resources.resources
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.csproj.GenerateResource.Cache
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.exe
+E:\VisualProject\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.pdb
+E:\VisualProject\Repository\Laba_Graphic\Laba_Graphic\bin\Debug\Laba_Graphic.exe.config
+E:\VisualProject\Repository\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.exe
+E:\VisualProject\Repository\Laba_Graphic\Laba_Graphic\obj\Debug\Laba_Graphic.pdb
